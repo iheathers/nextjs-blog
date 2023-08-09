@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <h1 className={styles.title}>
           {/* Learn <a href="https://nextjs.org">Next.js!</a> */}
-          Change made <Link href="posts/first-post">this page</Link>
+          new branch test <Link href="posts/first-post">this page</Link>
         </h1>
 
         <p className={styles.description}>
